@@ -52,9 +52,9 @@
 
 + [A comparative study: MongoDB vs. MySQL](./pdf/ComparativeStudy-MongoDBvsMSSQL.pdf)
 + [Performance evaluation of SQL and MongoDB databases for big e-commerce data](./pdf/CSSE2015submission85-V2d.pdf)
-+ [Database Meets AI: A Survey](./pdf/Database Meets Artificial Intelligence A Survey.pdf)
-+ [Performance analysis of NoSQL and relational databases with MongoDB and MySQL](./pdf/Performance analysis of NoSQL and relational databases with.pdf)
-+ [SQL vs NoSQL: A Performance Comparison](./pdf/SQL vs NoSQL -  A Performance Comparison.pdf)
++ [Database Meets AI: A Survey](./pdf/Database-Meets-Artificial-Intelligence-A-Survey.pdf)
++ [Performance analysis of NoSQL and relational databases with MongoDB and MySQL](./pdf/Performance-analysis-of-NoSQL-and-relational-databases-with.pdf)
++ [SQL vs NoSQL: A Performance Comparison](./pdf/SQL-vs-NoSQL-A-Performance-Comparison.pdf)
 
 # AI Database
 
